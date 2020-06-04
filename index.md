@@ -17,7 +17,11 @@
 
 <td align="center" valign="center">
 
-<img src="foot.jpg"/>
+ <style>
+body {
+  background-image: url('foot.jpg');
+}
+</style> 
 
 </td>
 
