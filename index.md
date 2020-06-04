@@ -17,7 +17,7 @@
 
 <td align="center" valign="center">
 
-<img src="images/walrus_bucket.jpg" width="939" height="499" border="0" alt="OMG BUCKET!" />
+<img src="foot.jpg" width="939" height="499" border="0" alt="OMG BUCKET!" />
 
 </td>
 
