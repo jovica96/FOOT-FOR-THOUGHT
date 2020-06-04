@@ -17,9 +17,9 @@
 
 <td align="center" valign="center">
 
-<!--
+
 <img src="foot.jpg"/>
--->
+
 
 </td>
 
